@@ -11,7 +11,7 @@
 
 ## Credify's vision
 
-Our goal is __giving people fair credit all over the world__. This world is not fair; some people, particularly women in developing countries, do not have access to the credit systems that people in developed countries take for granted. You think these people are not trustworthy? No, they just lack credit history. Our vision is fix this credibility problem through technologies.
+Our goal is __giving people fair access to credit all over the world__. This world is not fair; some people, particularly women in developing countries, do not have access to the credit systems that people in developed countries take for granted. You think these people are not trustworthy? No, they just lack credit history. Our vision is fix this credibility problem through technologies.
 
 What we focus now is __delivering the world’s leading embedded finance platform__. Our solution enables financial industry participants to connect with consumers at the right time in the right way.
 
