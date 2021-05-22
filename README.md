@@ -2,11 +2,10 @@
 
 ## Positions
 
-- Senior Backend Engineer (Vietnam)
-- Senior Frontend Engineer (Vietnam)
-- DevOps Engineer (Vietnam)
-- Field Application Engineer (Vietnam)
-- QA Manual Engineer (Vietnam)
+- [Senior Backend Engineer (Vietnam)](https://github.com/credify-pte-ltd/we-are-hiring/blob/master/open_positions/vietnam/senior_backend_engineer.md)
+- [Senior Frontend Engineer (Vietnam)](https://github.com/credify-pte-ltd/we-are-hiring/blob/master/open_positions/vietnam/senior_frontend_engineer.md)
+- [DevOps Engineer (Vietnam)](https://github.com/credify-pte-ltd/we-are-hiring/blob/master/open_positions/vietnam/devops_engineer.md)
+- [QA Manual Engineer (Vietnam)](https://github.com/credify-pte-ltd/we-are-hiring/blob/master/open_positions/vietnam/qa_engineer.md)
 
 ---
 

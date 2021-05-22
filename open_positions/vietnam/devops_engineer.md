@@ -56,3 +56,7 @@ As we grow to achieve our mission, we are seeking DevOps Engineers to join Credi
 ## About Credify
 
 Credify Pte. Ltd. is headquartered in Singapore and founded by two Japanese nationals in 2019. Credify successfully raised $1.8M USD from BEENEXT, DEEPCORE, and TIS in 2020, and currently is focused on software and business development in Ho Chi Minh City, Vietnam.
+
+## How to apply
+
+:link: [See README](https://github.com/credify-pte-ltd/we-are-hiring#how-to-apply)
