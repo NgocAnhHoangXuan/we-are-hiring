@@ -1,3 +1,5 @@
+![Frame 5](https://user-images.githubusercontent.com/7898437/120317091-6b29fa80-c308-11eb-9ef2-75c92e1de1cc.png)
+
 # We are hiring
 
 ## Positions
@@ -35,6 +37,8 @@ Our underlying technology that enables partners to get connected is an extensibl
 
 ---
 
+![team](https://user-images.githubusercontent.com/7898437/120317278-a3313d80-c308-11eb-8a62-3c8d2e51dbfe.png)
+
 ## Credify's culture
 
 ### Built with the purpose
@@ -58,6 +62,8 @@ The CEO is from the engineering background - a core developer of TouchID (the iP
 ### Self-driven mindset
 
 Taking an ownership. This is one of the most important things in Credify. We do not micro manage people, rather we expect people to think by themselves and grow together. In addition to this, we endorse each other to proactively learn new things. If you stop learning new things, then the growth of your skills will stop.
+
+![team2](https://user-images.githubusercontent.com/7898437/120317187-885ec900-c308-11eb-9345-9f6602d7e4bf.png)
 
 ---
 
